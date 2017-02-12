@@ -1,4 +1,4 @@
-/* SOURCE FILE - Copyright (c) 2017 typemime - Tanase Laurentiu Iulian - https://github.com/RealTimeCom/typemime */
+/* SOURCE FILE - Copyright (c) 2017 mimehttp - Tanase Laurentiu Iulian - https://github.com/RealTimeCom/mimehttp */
 'use strict';
 
 const path = require('path');

@@ -1,23 +1,24 @@
 {
-    "name": "typemime",
+    "name": "mimehttp",
     "version": "1.0.0",
-    "description": "Extension Mime Type",
+    "description": "MIME HTTP Type",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/RealTimeCom/typemime.git"
+        "url": "git+https://github.com/RealTimeCom/mimehttp.git"
     },
     "keywords": [
         "mime",
         "type",
         "extension",
         "mimetype",
+        "file",
         "http"
     ],
     "author": "Tanase Laurentiu Iulian <expertphp@gmail.com> (https://github.com/RealTimeCom)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/RealTimeCom/typemime/issues"
+        "url": "https://github.com/RealTimeCom/mimehttp/issues"
     },
-    "homepage": "https://github.com/RealTimeCom/typemime"
+    "homepage": "https://github.com/RealTimeCom/mimehttp"
 }
