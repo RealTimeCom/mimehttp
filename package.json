@@ -1,0 +1,23 @@
+{
+    "name": "typemime",
+    "version": "1.0.0",
+    "description": "Extension Mime Type",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/RealTimeCom/typemime.git"
+    },
+    "keywords": [
+        "mime",
+        "type",
+        "extension",
+        "mimetype",
+        "http"
+    ],
+    "author": "Tanase Laurentiu Iulian <expertphp@gmail.com> (https://github.com/RealTimeCom)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/RealTimeCom/typemime/issues"
+    },
+    "homepage": "https://github.com/RealTimeCom/typemime"
+}
