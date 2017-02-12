@@ -1,6 +1,6 @@
 ## Extension Mime Type
 
-** typemime - HTTP MIME Type **
+**typemime - HTTP MIME Type**
 ```sh
 $ npm install typemime
 ```
