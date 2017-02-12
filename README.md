@@ -1,0 +1,2 @@
+# typemime
+Extension Mime Type
