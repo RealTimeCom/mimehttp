@@ -3,7 +3,7 @@
 ```sh
 $ npm install mimehttp
 ```
-### Example
+### Howto
 ```js
 const mime = require('mimehttp');
 
